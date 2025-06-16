@@ -1,0 +1,40 @@
+{
+  "navigationItems": {
+    "dashboard": "Dashboard",
+    "employee": "Employees",
+    "leave Management": "Leave Management",
+    "salary Management": "Salary Management",
+    "payslip": "Payslip",
+    "resource Tracking": "Resource Tracking",
+    "reimbursement": "Reimbursement",
+    "expenditure": "Expenditure",
+    "policies": "Policies",
+    "yourProfile": "Your Profile",
+    "settings": "Settings"
+  },
+
+  "employeePageHeaderButtons": {
+    "excelBtn": "Import Excel Sheet",
+    "exportBtn": "Export Data",
+    "addEmployeeBtn": "Add Employee"
+  },
+
+  "role": {
+    "employee": "Employee",
+    "admin": "Admin",
+    "hR": "HR",
+    "lead": "Lead"
+  },
+
+  "alertsPopUps": {
+    "addEmployeeMessage": "Saved Successfully",
+    "deleteEmployee": "Employee Deleted Successfully"
+  },
+
+  "qualifications": {
+    "degree": "Degree",
+    "bTech": "B.Tech",
+    "pg": "PG",
+    "Other": "Other"
+  }
+}
